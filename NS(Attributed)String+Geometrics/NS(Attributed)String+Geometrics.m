@@ -1,5 +1,5 @@
 #import "NS(Attributed)String+Geometrics.h"
-
+//fork test
 int gNSStringGeometricsTypesetterBehavior = NSTypesetterLatestBehavior ;
 
 @implementation NSAttributedString (Geometrics) 
